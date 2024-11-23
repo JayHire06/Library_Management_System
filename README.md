@@ -54,3 +54,8 @@ The project contains the following files:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/JayHire06/LibraryManagementSystem.git
+
+## Team Members
+- **Jay** (202452323)
+- **Rashi** (20241142)
+- **Tanmay** (202452334)
