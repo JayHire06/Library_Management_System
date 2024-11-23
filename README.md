@@ -41,7 +41,6 @@ The project contains the following files:
   - **`LibraryManagementSystem_Presentation.pptx`**: PowerPoint presentation describing the project and its features.
 
 - **`README.md`**: Project documentation (this file).
-- **`LICENSE`** (optional): The project's license file (e.g., MIT License).
 
 ## Requirements
 - A **C compiler** (e.g., GCC) to compile the source code.
@@ -51,4 +50,4 @@ The project contains the following files:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
+   git clone https://github.com/JayHire06/LibraryManagementSystem.git
