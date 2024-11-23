@@ -1,0 +1,5 @@
+jay;jaypass123;admin
+rashi;rashipass456;admin
+tanmay;tanmaypass789;admin
+basudev;trialpass;user
+Nav;nav123;user
