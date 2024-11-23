@@ -33,6 +33,9 @@ The **Library Management System (LMS)** is a command-line application built in C
 ## Project Structure
 The project contains the following files:
 
+- **`screenshots/`**
+  - Contains screenshots of the application's output, demonstrating various functionalities such as book management, user login, and file handling.
+
 - **`src/`**
   - **`library.c`**: Implements book-related functionalities such as adding, deleting, and viewing books, as well as sorting and calculating due dates.
   - **`user.c`**: Manages user-related functionalities, including registration, login, and issuing books.
